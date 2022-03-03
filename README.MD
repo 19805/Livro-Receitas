@@ -5,4 +5,5 @@ Olá! bem vindo ao livro de receitas:apple:
 - lasanha
 - bolo
 - Paçoca
+- Sorvete
 - Pipoca
